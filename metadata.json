@@ -1,0 +1,7 @@
+{
+  "name": "MasterAI - Pro Audio Mastering",
+  "description": "An AI-powered professional audio mastering suite that analyzes your tracks and applies studio-grade DSP logic for streaming, club, and broadcast standards.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
